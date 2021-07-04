@@ -52,3 +52,10 @@ h1{
     margin-left: 13px;
     margin-right: 13px;
 }
+.border-left{
+    border-left: 7px solid #ff4500;
+    
+}
+footer p{
+    text-align: center;
+}
