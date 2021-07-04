@@ -8,7 +8,7 @@ h1{
 .name-heighlight{
     color: orange;
 }
-section{
+.flexiable-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -34,4 +34,21 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience-subtitle{
+    color: tomato;
+}
+.shadow{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+}
+
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.space{
+    margin-left: 13px;
+    margin-right: 13px;
 }
